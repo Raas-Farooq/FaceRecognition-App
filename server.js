@@ -10,6 +10,7 @@ const register = require('./controller/register.js');
 const image = require('./controller/image.js');
 
 
+
 const db = knex({
     client: 'pg',
     connection: {

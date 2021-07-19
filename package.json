@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "fast-levenshtein": "^2.0.6",
     "js2coffee": "^2.2.0",
-    "knex": "^0.95.6",
+    "knex": "^0.95.7",
     "levn": "^0.3.0",
     "minimist": "^1.2.5",
     "nodemon": "^2.0.9",

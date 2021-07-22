@@ -29,7 +29,7 @@ app.use(cors());
 
 
 app.get('/', (req, res) => {
-    res.send('Will you determined!');
+    res.send('CONSTANT AND NEVER ENDING IMPROVEMENT!');
 })
 
 app.post('/signin', (req, res) => { signin.handleSignin (req,res,db,bcrypt) })

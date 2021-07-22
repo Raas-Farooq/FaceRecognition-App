@@ -41,5 +41,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raas-Farooq/FaceRecognition-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Raas-Farooq/FaceRecognition-App/issues"
+  },
+  "homepage": "https://github.com/Raas-Farooq/FaceRecognition-App#readme"
 }
